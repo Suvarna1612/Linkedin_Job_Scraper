@@ -10,3 +10,5 @@ The **LinkedIn Job Scraper** is a Python-based tool designed to help you find an
 - **Automated Data Extraction:** Uses Selenium for web scraping to gather job information.
 - **Job Role Generation:** Leverages the GPT-3.5-turbo model to generate relevant job roles.
 - **Job Listings Export:** Retrieve and save job
+
+### The output file is attached 
